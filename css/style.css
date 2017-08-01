@@ -1,0 +1,42 @@
+body{
+	background-image: url(../img/background-3.jpg);
+}
+
+#logo{
+	margin-top: 20px;
+}
+
+.login-form{
+	background: #ffffff;
+	width: 400px;
+	height: 235px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-border-radius: 1px;
+	-moz-border-radius: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 7px 15px -1px rgba(0,0,0,1);
+-moz-box-shadow: 1px 7px 15px -1px rgba(0,0,0,1);
+box-shadow: 1px 7px 15px -1px rgba(0,0,0,1);
+}
+
+.submit-button{
+	width: 300px;
+	background: #673AB7;
+}
+
+#error-msg{
+	color: red; padding-bottom: 5px;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#form-container{
+	height: 200px;
+	text-align: center;
+}
+
+#form-container h2{
+	font-family: 'Oxygen', sans-serif;
+	color: #ffffff;
+}
